@@ -5,7 +5,7 @@ description = "Keep Trying Yourself"
 authors = ["Rawknee.69"]
 
 [tool.poetry.dependencies]
-py-cord = "2.5.1"
+py-cord = "2.5.0"
 jishaku = "2.5.1"
 discord = "^2.3.2"
 aiohttp = "3.8.3"
