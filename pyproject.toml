@@ -10,7 +10,7 @@ jishaku = {git = "https://github.com/Gorialis/jishaku"}
 discord = "^2.3.2"
 aiohttp = {git = "https://github.com/aio-libs/aiohttp"}
 psutil = {git = "https://github.com/giampaolo/psutil"}
-httpx = {git = "https://github.com/encode/httpx"}
+httpx = "0.23.0"
 Flask = "^2.2.2"
 motor = "^3.1.1"
 pymongo = "^4.3.2"
