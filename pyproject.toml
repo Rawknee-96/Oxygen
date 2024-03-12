@@ -7,7 +7,7 @@ authors = ["Rawknee.69"]
 [tool.poetry.dependencies]
 py-cord = {git = "https://github.com/Pycord-Development/pycord"}
 jishaku = {git = "https://github.com/Gorialis/jishaku"}
-discord = {git = "https://github.com/Rapptz/discord.py"}
+discord = "^2.3.2"
 aiohttp = {git = "https://github.com/aio-libs/aiohttp"}
 psutil = {git = "https://github.com/giampaolo/psutil"}
 httpx = {git = "https://github.com/encode/httpx"}
