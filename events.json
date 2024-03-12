@@ -1,0 +1,67 @@
+{
+    "guilds": {
+        "1216995160060198992": {
+            "antinuke": {
+                "antirole-delete": true,
+                "antirole-create": true,
+                "antirole-update": true,
+                "antichannel-create": true,
+                "antichannel-delete": true,
+                "antichannel-update": true,
+                "antiban": true,
+                "antikick": true,
+                "antiwebhook": true,
+                "antibot": true,
+                "antiserver": true,
+                "antiping": true,
+                "antiprune": true,
+                "antiemoji-delete": true,
+                "antiemoji-create": true,
+                "antiemoji-update": true,
+                "antimemberrole-update": true
+            }
+        },
+        "1217069953845297152": {
+            "antinuke": {
+                "antirole-delete": true,
+                "antirole-create": true,
+                "antirole-update": true,
+                "antichannel-create": true,
+                "antichannel-delete": true,
+                "antichannel-update": true,
+                "antiban": true,
+                "antikick": true,
+                "antiwebhook": true,
+                "antibot": true,
+                "antiserver": true,
+                "antiping": true,
+                "antiprune": true,
+                "antiemoji-delete": true,
+                "antiemoji-create": true,
+                "antiemoji-update": true,
+                "antimemberrole-update": true
+            }
+        },
+        "1107901317877338174": {
+            "antinuke": {
+                "antirole-delete": true,
+                "antirole-create": true,
+                "antirole-update": true,
+                "antichannel-create": true,
+                "antichannel-delete": true,
+                "antichannel-update": true,
+                "antiban": true,
+                "antikick": true,
+                "antiwebhook": true,
+                "antibot": true,
+                "antiserver": true,
+                "antiping": true,
+                "antiprune": true,
+                "antiemoji-delete": true,
+                "antiemoji-create": true,
+                "antiemoji-update": true,
+                "antimemberrole-update": true
+            }
+        }
+    }
+}

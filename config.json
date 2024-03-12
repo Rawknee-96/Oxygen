@@ -1,0 +1,52 @@
+{
+    "guilds": {
+        "1216995160060198992": {
+            "antiSpam": false,
+            "antiLink": true,
+            "whitelisted": [],
+            "admins": [],
+            "adminrole": null,
+            "punishment": "ban",
+            "prefix": ".",
+            "staff": null,
+            "vip": null,
+            "girl": null,
+            "guest": null,
+            "frnd": null,
+            "wlrole": null,
+            "reqrole": null
+        },
+        "1217069953845297152": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "admins": [],
+            "adminrole": null,
+            "punishment": "ban",
+            "prefix": "a!",
+            "staff": null,
+            "vip": null,
+            "girl": null,
+            "guest": null,
+            "frnd": null,
+            "wlrole": null,
+            "reqrole": null
+        },
+        "1107901317877338174": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "admins": [],
+            "adminrole": null,
+            "punishment": "ban",
+            "prefix": ".",
+            "staff": null,
+            "vip": null,
+            "girl": null,
+            "guest": null,
+            "frnd": null,
+            "wlrole": null,
+            "reqrole": null
+        }
+    }
+}

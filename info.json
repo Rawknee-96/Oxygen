@@ -1,0 +1,13 @@
+{
+    "OWNER_IDS": [
+      1075798314500493322
+    ],
+    "name": "Oxygen",
+    "server": "https://discord.gg/WBgDeWBPwG",
+    "ch": "LOGS-CHANNEL",
+    "OpenAi": "Put-Your-OpenAI-API-Key-Here IF YOU HAVE",
+    "EXTENSIONS": ["cogs.events"],
+    "np": [
+      1075798314500493322
+    ]
+}
