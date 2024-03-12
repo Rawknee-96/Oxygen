@@ -1,4 +1,4 @@
-python==^3.8
+
 py-cord==git+https://github.com/Pycord-Development/pycord
 jishaku==git+https://github.com/Gorialis/jishaku
 discord==git+https://github.com/Rapptz/discord.py
