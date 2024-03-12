@@ -3,6 +3,7 @@ from core.Astroz import Astroz
 import asyncio, json
 import jishaku, cogs
 from discord.ext import commands, tasks
+from discord.ext import menus
 import discord
 from discord import app_commands
 import traceback
