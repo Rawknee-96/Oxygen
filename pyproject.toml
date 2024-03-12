@@ -6,7 +6,7 @@ authors = ["Rawknee.69"]
 
 [tool.poetry.dependencies]
 py-cord = {git = "https://github.com/Pycord-Development/pycord"}
-jishaku = {git = "https://github.com/Gorialis/jishaku"}
+jishaku = "2.5.1"
 discord = "^2.3.2"
 aiohttp = "3.8.3"
 psutil = "5.9.2"
